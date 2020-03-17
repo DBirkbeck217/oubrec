@@ -45,10 +45,12 @@ iframe {
   border: 0;
   width: 265px;
   height: 265px;
+  margin: 5px 5px 5px 5px;
 }
 
 .album_art {
   border: 0;
   width: 265px;
   height: 265px;
+  margin: 5px 5px 5px 5px;
 }
