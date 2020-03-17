@@ -1,0 +1,64 @@
+:root {
+  background-image: url("./img/Thylacine-Dream-NEW-Site-BG-Texture.jpg");
+  background-repeat: repeat;
+  background-size: cover;
+  background-color: black;
+}
+
+@media only screen and (max-width: 600px) {
+  body {
+    background-image: url("./img/Thylacine-Dream-NEW-Site-BG-Texture.jpg");
+    background-repeat: repeat;
+    background-size: cover;
+    background-color: black;
+  }
+
+  iframe {
+    border: 0;
+    width: 200px;
+    height: 200px;
+  }
+
+  .album_art {
+    border: 0;
+    width: 200px;
+    height: 200px;
+  }
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.header_pic {
+  max-width: 75%;
+}
+
+.album_container {
+  max-width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+footer {
+  margin-top: 30px;
+  color: white;
+  text-align: center;
+}
+
+iframe {
+  border: 0;
+  width: 265px;
+  height: 265px;
+}
+
+.album_art {
+  border: 0;
+  width: 265px;
+  height: 265px;
+}
