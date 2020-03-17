@@ -1,18 +1,8 @@
 :root {
-  background-image: url("./img/Thylacine-Dream-NEW-Site-BG-Texture.jpg");
-  background-repeat: repeat;
-  background-size: cover;
   background-color: black;
 }
 
 @media only screen and (max-width: 600px) {
-  body {
-    background-image: url("./img/Thylacine-Dream-NEW-Site-BG-Texture.jpg");
-    background-repeat: repeat;
-    background-size: cover;
-    background-color: black;
-  }
-
   iframe {
     border: 0;
     width: 200px;
