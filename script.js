@@ -5,4 +5,4 @@ function changeHeader() {
   }
 }
 
-window.onresize = changeHeader();
+window.onload = changeHeader();
